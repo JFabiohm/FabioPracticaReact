@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "9ef0",
+      "name": "sdfqghek",
+      "email": "aw-@gmail.com",
+      "password": "sa-ghlño"
+    },
+    {
+      "id": "f8f5",
+      "name": "sdfqghek",
+      "email": "aw-@gmail.com",
+      "password": "sa-ghlño"
+    },
+    {
+      "id": "9607",
+      "name": "fabio",
+      "email": "kawaighm@gmail.com",
+      "password": "fabio"
+    },
+    {
+      "id": "9d1f",
+      "name": "pipe",
+      "email": "pipe@gmail.com",
+      "password": "fabiohm"
+    }
+  ],
+  "productos": []
+}
